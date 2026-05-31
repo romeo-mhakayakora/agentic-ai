@@ -1,0 +1,3 @@
+# Lecture
+
+Placeholder lecture notes.

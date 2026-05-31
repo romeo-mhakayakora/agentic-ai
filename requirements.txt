@@ -1,0 +1,3 @@
+# Minimal notebook dependencies (adjust per module as needed)
+jupyterlab>=4.0
+ipykernel>=6.0
