@@ -3,6 +3,8 @@
 > **Course:** Arize AI – Agents Mastery: From Architecture to Optimization (2026)
 > **Resources:** [Lecture Video](https://youtu.be/r6vVTeRZqbI) · [Lab 2 Video](https://www.youtube.com/watch?v=D_Gsp24I9MY)
 
+Lab notebooks: `labs/module-02-engineering-observability/`
+
 ---
 
 ## Overview
@@ -149,7 +151,7 @@ Pre-built connectors that sit under the OpenInference umbrella. They automatical
 ## 6. Lab 2: Set Up Observability for Your Agent
 
 > **Lab video:** [Watch on YouTube](https://www.youtube.com/watch?v=D_Gsp24I9MY)
-> **Lab file:** `lab/lab.ipynb`
+> **Lab file:** `labs/module-02-engineering-observability/lab.ipynb`
 
 The lab walks through instrumenting an agent with OpenInference auto-instrumentors and routing traces to Arize Phoenix (or a compatible OTel backend).
 

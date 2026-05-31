@@ -11,4 +11,5 @@ pip install -r requirements.txt
 
 ## Jupyter
 
-Open any `lab.ipynb` in JupyterLab.
+Open any `labs/**/lab.ipynb` in JupyterLab.
+
